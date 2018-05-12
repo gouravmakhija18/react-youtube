@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# React Youtube Search
 
 Note : This demo is created for learning purpose - Training provided by Stephen Udemy course.
 
